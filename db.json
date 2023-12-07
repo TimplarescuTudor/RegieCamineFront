@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1",
+      "tipUtilizator": "Administrator",
+      "token": "mock-token-123"
+    }
+  ]
+}
